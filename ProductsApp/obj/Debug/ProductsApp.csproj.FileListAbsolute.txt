@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll.config
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\ProductsApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.dll
+c:\users\user\documents\visual studio 2013\Projects\ProductsApp\ProductsApp\obj\Debug\ProductsApp.pdb

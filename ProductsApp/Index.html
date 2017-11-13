@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Products App</title>
+
+</head>
+<body>
+    
+    <div ng-app="myApp" ng-controller="showAllProductController">
+        
+        <h3>Product List</h3>
+            <div>
+                <table>
+                    <tr ng-repeat="product in products">
+                        <td>{{ product.Name }}</td>
+                        <td>{{ product.Category }}</td>
+                        <td>{{ product.Price }}</td>
+                    </tr>
+                </table>
+            </div>
+        <h3>Product SearchById</h3>
+        <div>
+            <input type="text" ng-model="Product.Id" size="5" />
+            <button ng-click="Search(Product.Id)">Search</button>
+            <p>Product Name:{{Name}}</p>
+        </div>
+
+
+    </div>
+
+    <script src="Scripts/AngularJS/angular.js"></script>
+    <script src="Scripts/AngularJS/angular-route.js"></script>
+    <script src="Scripts/Module.js"></script>
+    <script src="Scripts/RouteConfig.js"></script>
+    <script src="Scripts/Area/ProductController.js"></script>
+</body>
+</html>
